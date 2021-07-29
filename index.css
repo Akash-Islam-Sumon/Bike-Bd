@@ -1,40 +1,36 @@
-    .col-lg-6 img {
-        width: 100%;
-    }
-    
-    .head {
-        background-color: #264653;
-    }
-    
-    .custom {
-        background-color: #E76F51;
-    }
-    
-    .Bike-collection-color {
-        color: #E76F51;
-    }
-    
-    .fast-grayscale img {
-        filter: grayscale(100%);
-    }
-    
-    .last-gray {
-        filter: saturate(8);
-    }
-    
-    .button {
-        height: 57px;
-        width: 160px;
-        background-color: #E76F51;
-        padding: 10px 15px 10px 15px;
-        border-radius: 5px;
-        text-decoration: none;
-    }
-    
-    span {
-        color: #E76F51;
-    }
-    
-    .star {
-        color: #ec4d25;
-    }
+  .head {
+      background-color: #264653;
+  }
+  
+  .custom {
+      background-color: #E76F51;
+  }
+  
+  .collection-color {
+      color: #E76F51;
+  }
+  
+  .fast-grayscale img {
+      filter: grayscale(100%);
+  }
+  
+  .last-gray {
+      filter: saturate(8);
+  }
+  
+  .button {
+      height: 57px;
+      width: 160px;
+      background-color: #E76F51;
+      padding: 10px 15px 10px 15px;
+      border-radius: 5px;
+      text-decoration: none;
+  }
+  
+  span {
+      color: #E76F51;
+  }
+  
+  .star {
+      color: #ec4d25;
+  }
